@@ -1,9 +1,7 @@
-Cakephp-2.0.Component-Crypt
+CakePHP 2.0 Component for Encrypting and Descryption a URL friendly string
 ===========================
 
 Encypts and decrypts a URL friedly string based on the apps salt key.
-
-For Cakephp 2.0
 
 
 To work in CakePHP 1.3
